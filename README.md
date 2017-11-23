@@ -1,4 +1,4 @@
 # small-golang-docker
-Example for how to make a smaller a Docker image for compile and run your golang app
+Example of how to make a smaller Docker image to compile and run your golang app using alpine and a custom entrypoint
 
 ![ImageSize](image_size.png)
